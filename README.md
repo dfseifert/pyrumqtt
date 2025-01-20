@@ -1,3 +1,3 @@
 # pyrumqtt
 
-Describe your project here.
+Python wrapper around the rust rumqttd and rumqttc crates.
